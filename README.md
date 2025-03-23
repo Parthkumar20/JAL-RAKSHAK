@@ -5,8 +5,9 @@ WINNING PROJECT AT SMART INDIA HACKATHON PS 1619 UNDER GOVERMENT OF DELHI &amp; 
 
 Thanks to the amazing contributors who made this project possible:
 
-- **[@Ayush-Sharma99](https://github.com/Ayush-Sharma99)**  (First Contributor)
-- **[@chandu-319](https://github.com/chandu-319)**  (Second Contributor)
+- **[@Ayush-Sharma99](https://github.com/Ayush-Sharma99)**
+- **[@DevanshMaheshwari23](https://github.com/DevanshMaheshwari23)**
+- **[@chandu-319](https://github.com/chandu-319)**
 
 ### 🚀 Maintainer  
 <table>
