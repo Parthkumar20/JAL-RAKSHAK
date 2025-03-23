@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "956259232615",
+    "project_id": "jal-rakshakfinal",
+    "storage_bucket": "jal-rakshakfinal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956259232615:android:ded1b259400e21967f5dc2",
+        "android_client_info": {
+          "package_name": "com.mycompany.jalrakshak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956259232615-5v10a9u4c3f3v2upj6erb16nhjilcodi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.jalrakshak",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "956259232615-93p9i9hhedvqnhf7m73jddjf1vcme5tn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.jalrakshak",
+            "certificate_hash": "badc0ae40af3c8029b77533fd674f0bc5ecedf5e"
+          }
+        },
+        {
+          "client_id": "956259232615-abji9j404gs59uiph7c5i39phvamrqlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR2nfhsv7R_Q5hvBWSg6YFagah26KVcho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956259232615-73200icpu8o1sbfhq3rqkqh1qtqd2r9r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "956259232615-a50be324k6bebhsaqg83lgk8vucupn7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.jalrakshak"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
