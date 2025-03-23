@@ -11,7 +11,7 @@ const _kPrivateApiFunctionName = 'ffPrivateApiCall';
 
 class GeolocationCall {
   static Future<ApiCallResponse> call({
-    String? apiKey = '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',
+    String? apiKey = 'YOUR_KEY',
   }) async {
     const ffApiRequestBody = '''
 {
